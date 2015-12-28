@@ -1,0 +1,10 @@
+Changelog
+=========
+
+These are all the changes in `Lektor-examples` since initial commit.
+
+
+initial commit
+--------------
+ * Moving out the `example` folder out of base `lektor/lektor` repo, and rename
+ the folder as `blog`
