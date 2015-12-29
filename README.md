@@ -13,7 +13,6 @@ admin UI and minimal desktop app.
 ## Contents
 
  * Blog  :  contains a very basic blog project to get started.
- * 
 
 
 
